@@ -17,9 +17,8 @@ Moving on to the technical details of the machine learning models, we created a 
 Works Cited:
 
 Dahiphale, Devendra; Shinde, Pratik; Patil, Koninika; Dahiphale, Vijay (2023). Smart Farming: Crop 
-Recommendation using Machine Learning with Challenges and Future Ideas. TechRxiv. 
+Recommendation using Machine Learning with Challenges and Future Ideas. TechRxiv. Preprint. https://doi.org/10.36227/techrxiv.23504496.v1
 
-Preprint. https://doi.org/10.36227/techrxiv.23504496.v1
 Hasan M, Marjan MA, Uddin MP, Afjal MI, Kardy S, Ma S and Nam Y (2023) Ensemble machine 
 learning-based recommendation system for effective prediction of suitable agricultural 
 crop cultivation. Front. Plant Sci. 14:1234555. doi: 10.3389/fpls.2023.1234555
